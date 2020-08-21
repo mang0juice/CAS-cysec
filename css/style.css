@@ -52,7 +52,7 @@ canvas{
 
 /* ---- Navigation Menu ---- */
 
-#navMenu{
+.navMenu{
    text-align: center;
    color: grey;
    width: 100%;
