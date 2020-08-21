@@ -52,6 +52,7 @@ canvas{
 
 /* ---- footer ---- */
 .footer{
+   overflow: scroll;
    text-align: center;
    color: grey;
    width: 100%;
