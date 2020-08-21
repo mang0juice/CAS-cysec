@@ -51,7 +51,6 @@ canvas{
 }
 
 /* ---- footer ---- */
-
 .footer{
    text-align: center;
    color: grey;
@@ -61,3 +60,18 @@ canvas{
    padding: 50px;
    margin: 100px;
 }
+
+.footer a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
