@@ -53,6 +53,8 @@ canvas{
 /* ---- Navigation Menu ---- */
 
 #navMenu{
+   text-align: center;
+   color: grey;
    width: 100%;
    height: 15%;
    border: 10px white;
