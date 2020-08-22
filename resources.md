@@ -10,5 +10,5 @@
 - Reddit r/cybersecurity's Wiki (Has a bunch of links to books, webinars, and courses on cybersecurity, although it may be a little advanced)
     - https://www.reddit.com/r/cybersecurity/wiki/index
 
-#### Check these out and add more if you think of any good ones.
+#### Check these out and add more if you know of any good ones.
 #### I'll be adding more as I find stuff too, and if you think any of the stuff don't fit go ahead and remove them
