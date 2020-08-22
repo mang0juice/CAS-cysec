@@ -2,15 +2,20 @@
 .topnav {
   overflow: hidden;
   background-color: #333;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
 }
 
 /* Style the topnav links */
 .topnav a {
-  float: left;
+  float: right;
+  font: 24px Helvetica, sans-serif;
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 25px 30px;
   text-decoration: none;
 }
 
@@ -44,38 +49,15 @@ canvas{
   vertical-align:bottom;
 }
 
-
-
+ 
 /* ---- particles.js container ---- */
 
 #particles-js{
   width: 100%;
-  height: 100%;
+  height: 1000px;
   background-color: #4CD4FF;
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
-
-/* ---- footer ---- */
-.footer{
-   overflow: hidden;
-   background-color: #333;
-
-}
-
-.footer a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.footer a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
