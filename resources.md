@@ -9,6 +9,10 @@
 - Something about being wary about free VPNs, since they're more vulnerable to data leaks and stuff
 - Reddit r/cybersecurity's Wiki (Has a bunch of links to books, webinars, and courses on cybersecurity, although it may be a little advanced)
     - https://www.reddit.com/r/cybersecurity/wiki/index
+- McAfee Blog - 10 Tips to Stay Safe Online (User-friendly)
+    - https://www.mcafee.com/blogs/consumer/consumer-threat-notices/10-tips-stay-safe-online/
+- UK Government Website - Coronavirus (COVID-19) - Staying Safe Online (It's from the UK government, and it's geared towards the pandemic)
+    - https://www.gov.uk/guidance/covid-19-staying-safe-online
 
 #### Check these out and add more if you know of any good ones.
 #### I'll be adding more as I find stuff too, and if you think any of the stuff don't fit go ahead and remove them
