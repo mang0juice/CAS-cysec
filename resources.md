@@ -11,7 +11,7 @@
     - https://www.reddit.com/r/cybersecurity/wiki/index
 - McAfee Blog - 10 Tips to Stay Safe Online (User-friendly)
     - https://www.mcafee.com/blogs/consumer/consumer-threat-notices/10-tips-stay-safe-online/
-- UK Government Website - Coronavirus (COVID-19) - Staying Safe Online (It's from the UK government, and it's geared towards the pandemic)
+- UK Government Website - Coronavirus (COVID-19) - Staying Safe Online (It's from the UK government, and it's geared towards people during the pandemic)
     - https://www.gov.uk/guidance/covid-19-staying-safe-online
 - Microsoft - Online Safety Resources (It's by Microsoft, so hey)
     - https://www.microsoft.com/en-us/digital-skills/online-safety-resources
