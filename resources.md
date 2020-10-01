@@ -42,6 +42,8 @@
     - Portfolio 2 Template on Colorlib
         - https://colorlib.com/wp/template/portfolio-2/
         - It's got a page setup like we want, and it looks pretty clean
+        - I added a branch with this template, so you could see how it looks.
+        - https://github.com/mang0juice/CAS-cysec/tree/Portfolio-Template
 
 - W3Schools - W3.CSS Templates (It's W3Schools)
     - https://www.w3schools.com/w3css/w3css_templates.asp
