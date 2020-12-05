@@ -29,6 +29,8 @@
     - I'm not really sure how the free version looks, but it's pretty good!
 - Microsoft Defender; f.k.a. Windows Defender (People may not know how to use it well, so here's a HowToGeek article on it)
     - https://www.howtogeek.com/220232how-to-use-the-built-in-windows-defender-antivirus-on-windows-10
+-Kali Linux
+    -https://www.kali.org
 
 
 ## HTML Templates
